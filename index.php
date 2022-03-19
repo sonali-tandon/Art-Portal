@@ -1,1 +1,1 @@
-<?php header( 'Location: fullscreen.html' ) ;  ?>
+<?php header( 'Location: index.html' ) ;  ?>
