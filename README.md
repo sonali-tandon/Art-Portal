@@ -21,3 +21,5 @@ A Web Portal where art students can sell, buy, promote, and showcase their artwo
 -The primary screens of the web portal are the login page, home page, about us page, dashboard and events page. 
 
 -This is the final iteration of our web portal after integrating all the feedback we received from our usability testing.
+
+DEMO - https://sonali-tandon.github.io/Art-Portal/
